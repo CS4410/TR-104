@@ -1,0 +1,220 @@
+# JUNE 2026
+
+## Week 21 (1 June 2026 – 5 June 2026)
+
+### 1 June 2026 (Monday)
+
+**Topic:** Current Interview Trends & Preparation Strategies
+
+Today I attended a session focused on current recruitment trends in the technology industry. The mentor discussed placement preparation strategies, aptitude preparation, technical interviews, coding assessments, communication skills, and resume optimization techniques. Various industry expectations and hiring practices were also explained.
+
+**Learning Outcome:**
+
+* Learned current hiring trends in the IT industry.
+* Improved understanding of interview preparation strategies.
+* Gained insights into placement and career development.
+
+---
+
+### 2 June 2026 (Tuesday)
+
+**Topic:** Semantic Search and Retrieval-Augmented Generation (RAG)
+
+The mentor introduced Semantic Search and Retrieval-Augmented Generation (RAG), which combines information retrieval systems with Large Language Models. The session explained how semantic embeddings help retrieve contextually relevant information before generating responses.
+
+**Learning Outcome:**
+
+* Learned semantic search techniques.
+* Understood Retrieval-Augmented Generation architecture.
+* Explored practical applications of LLM-powered search systems.
+
+---
+
+### 2 June 2026 (Tuesday)
+
+**Topic:** SQL Viva
+
+A technical viva session was conducted covering SQL concepts including joins, functions, normalization, indexing, query optimization, and database design principles.
+
+**Learning Outcome:**
+
+* Revised SQL concepts.
+* Improved confidence in database-related viva questions.
+
+---
+
+### 3 June 2026 (Wednesday)
+
+**Topic:** Understanding Tools and Agents
+
+Today I learned about AI agents, tools, and autonomous workflow systems. The mentor explained how Large Language Models can utilize external tools and APIs to perform complex tasks. Agentic systems and decision-making workflows were discussed.
+
+**Learning Outcome:**
+
+* Learned fundamentals of Agentic AI.
+* Understood tool-based reasoning systems.
+* Explored real-world AI agent applications.
+
+---
+
+### 3 June 2026 (Wednesday)
+
+**Topic:** Weekly Admin Catchup Call
+
+The weekly review session focused on internship completion activities, final project progress, documentation requirements, and viva preparation guidelines.
+
+**Learning Outcome:**
+
+* Reviewed project completion status.
+* Discussed final submission requirements.
+
+---
+
+### 4 June 2026 (Thursday)
+
+**Topic:** Study of Agentic Frameworks – LangGraph
+
+The mentor demonstrated LangGraph, a framework used for designing multi-agent workflows. Concepts such as state management, agent coordination, decision graphs, and workflow orchestration were explained.
+
+**Learning Outcome:**
+
+* Learned LangGraph fundamentals.
+* Understood multi-agent system architecture.
+* Explored advanced AI workflow orchestration.
+
+---
+
+### 5 June 2026 (Friday)
+
+**Topic:** Self-Study, Project Completion & Documentation
+
+Today was dedicated to self-study, project integration, testing, documentation, and final submission preparation. I reviewed all concepts learned throughout the six-month internship and completed the final implementation of my project.
+
+Project Completed:
+
+**Title:** AI-Powered Financial Analysis Platform
+
+**Major Components Developed:**
+
+* Data Collection using Yahoo Finance
+* PySpark Feature Engineering
+* SQLite Database Integration
+* Gradient Boosted Trees (GBT) Forecasting
+* Investment Classification using Random Forest
+* AI Chatbot using Ollama and Llama 3.2
+* Interactive Streamlit Dashboard
+* Automated Testing using Pytest
+
+**Project Results:**
+
+* R² Score: 0.9773
+* RMSE: 15.03
+* Mean Error: 4.83%
+* Classification Accuracy: 100%
+* 7/7 Automated Tests Passed
+
+**Learning Outcome:**
+
+* Successfully completed the industrial training project.
+* Integrated Machine Learning, Data Engineering, AI, and Dashboard Development concepts.
+* Improved technical, analytical, and problem-solving skills.
+
+---
+
+## Weekly Summary
+
+During the final week of the internship, I explored advanced AI concepts including Retrieval-Augmented Generation (RAG), Semantic Search, Agentic AI, Tools, and LangGraph. I also participated in SQL revision sessions, interview preparation activities, and project completion tasks. This week helped bridge the gap between traditional Machine Learning systems and modern AI-powered applications.
+
+---
+
+# Overall Training Summary (January 2026 – June 2026)
+
+During my six-month industrial training at **Sabudh Foundation**, I gained comprehensive knowledge of:
+
+### Programming
+
+* Python Fundamentals
+* Advanced Python
+* Object-Oriented Programming
+* FastAPI
+* Scientific Computing
+
+### Data Analytics
+
+* NumPy
+* Pandas
+* Data Visualization
+* Dataiku
+* Power BI
+
+### Database Management
+
+* SQL
+* Database Design
+* Query Optimization
+* Advanced SQL Functions
+
+### Machine Learning
+
+* Linear Regression
+* Logistic Regression
+* Naïve Bayes
+* Decision Trees
+* K-Nearest Neighbors
+* Support Vector Machines
+* Clustering Techniques
+* Model Optimization
+
+### Natural Language Processing
+
+* Text Vectorization
+* Word Embeddings
+* SVD & LSA
+* Probabilistic Models
+* Transformer Architecture
+
+### Large Language Models
+
+* Open Source LLMs
+* Hugging Face
+* RAG
+* RLHF
+* LoRA
+* PEFT
+* Semantic Search
+
+### Data Engineering
+
+* PySpark
+* RDD Operations
+* Spark MLlib
+* Distributed Processing
+
+### Agentic AI
+
+* AI Agents
+* LangGraph
+* Tool Usage
+* Workflow Orchestration
+
+### Project Developed
+
+**AI-Powered Financial Analysis Platform**
+
+The training significantly enhanced my technical expertise, practical problem-solving abilities, communication skills, and industry readiness. It provided valuable exposure to modern technologies in Artificial Intelligence, Machine Learning, Data Engineering, Business Intelligence, and Software Development.
+
+---
+
+### Student Information
+
+**Name:** Karan Singh
+**URN:** 2203482
+**Branch:** Computer Science & Engineering
+**Batch:** 2022–2026
+**Course:** TR104 Industrial Training
+**Organization:** Sabudh Foundation
+**College:** Guru Nanak Dev Engineering College (GNDEC), Ludhiana
+
+**Training Duration:** January 2026 – June 2026
+
+**Project Title:** AI-Powered Financial Analysis Platform
