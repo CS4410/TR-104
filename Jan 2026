@@ -1,0 +1,218 @@
+# TR104 Industrial Training Daily Diary
+
+## Student Details
+
+Name: Karan Singh
+URN: 2203482
+Branch: Computer Science & Engineering
+Batch: 2022–2026
+Training Course: TR104 Industrial Training
+Organization: Sabudh Foundation
+Duration: January 2026 – June 2026
+
+---
+
+# JANUARY 2026
+
+## Week 1 (14 January 2026 – 16 January 2026)
+
+### 14 January 2026 (Wednesday)
+
+**Topic:** Installation and Development Environment
+
+Today I attended the introductory session of the industrial training program. The mentor explained the software tools required throughout the training. Python installation, VS Code setup, package management using pip, virtual environments, and development workflows were discussed. I configured my system and verified the successful installation of Python and essential libraries.
+
+**Learning Outcome:**
+
+* Installed Python and VS Code.
+* Understood virtual environments.
+* Configured development environment.
+
+---
+
+### 15 January 2026 (Thursday)
+
+**Topic:** Programming Basics
+
+The session introduced the fundamentals of programming. Concepts such as variables, input/output operations, comments, syntax rules, and basic problem-solving techniques were discussed. Several examples were demonstrated using Python.
+
+**Learning Outcome:**
+
+* Learned Python syntax.
+* Understood variables and data storage.
+* Practiced simple Python programs.
+
+---
+
+### 16 January 2026 (Friday)
+
+**Topic:** Data Types and Operators
+
+Today I learned about Python data types including integers, floating-point numbers, strings, booleans, and type conversion. Various arithmetic, logical, relational, and assignment operators were demonstrated with examples.
+
+**Learning Outcome:**
+
+* Understood Python data types.
+* Learned operators and expressions.
+* Solved basic exercises.
+
+---
+
+## Week 2 (19 January 2026 – 23 January 2026)
+
+### 19 January 2026 (Monday)
+
+**Topic:** How Computers Got Intelligent
+
+This session introduced Artificial Intelligence and Machine Learning. The historical evolution of intelligent systems was discussed. I learned how computers evolved from rule-based systems to data-driven learning systems.
+
+**Learning Outcome:**
+
+* Introduction to AI and ML.
+* Historical development of intelligent systems.
+
+---
+
+### 19 January 2026 (Monday)
+
+**Topic:** Data Types and Operators – Part 2
+
+Advanced operations on variables and expressions were discussed. Practical coding exercises were performed.
+
+**Learning Outcome:**
+
+* Improved understanding of Python operators.
+* Hands-on coding practice.
+
+---
+
+### 20 January 2026 (Tuesday)
+
+**Topic:** Data Types and Control Structures
+
+The mentor explained conditional statements and loops. Examples using if-else, nested conditions, for loops, and while loops were demonstrated.
+
+**Learning Outcome:**
+
+* Learned decision-making structures.
+* Implemented loops in Python.
+
+---
+
+### 21 January 2026 (Wednesday)
+
+**Topic:** Introduction to Machine Learning
+
+Machine Learning concepts including supervised learning, unsupervised learning, datasets, features, and labels were introduced.
+
+**Learning Outcome:**
+
+* Basic understanding of ML workflow.
+* Learned common ML terminologies.
+
+---
+
+### 22 January 2026 (Thursday)
+
+**Topic:** Descriptive Statistics and Probability Concepts
+
+Statistical measures such as mean, median, mode, variance, and standard deviation were discussed. Probability fundamentals were introduced.
+
+**Learning Outcome:**
+
+* Understood basic statistics.
+* Learned probability concepts.
+
+---
+
+### 23 January 2026 (Friday)
+
+**Topic:** Text Vectorization Techniques
+
+The mentor introduced Natural Language Processing fundamentals and methods for converting text into numerical representations.
+
+**Learning Outcome:**
+
+* Introduction to NLP.
+* Learned text vectorization concepts.
+
+---
+
+## Week 3 (27 January 2026 – 30 January 2026)
+
+### 27 January 2026 (Tuesday)
+
+**Topic:** How Computers Got Intelligent – Part 2
+
+Advanced concepts related to machine intelligence and learning systems were discussed.
+
+**Learning Outcome:**
+
+* Improved understanding of AI systems.
+
+---
+
+### 27 January 2026 (Tuesday)
+
+**Topic:** Text Vectorization – Vector Algebra and PCA
+
+I learned how vector algebra is used in machine learning and NLP. Principal Component Analysis (PCA) was introduced for dimensionality reduction.
+
+**Learning Outcome:**
+
+* Learned PCA basics.
+* Understood vector representations.
+
+---
+
+### 27 January 2026 (Tuesday)
+
+**Topic:** Advanced Strings and Built-in Functions
+
+Python string manipulation techniques and built-in utility functions were demonstrated.
+
+**Learning Outcome:**
+
+* Improved Python programming skills.
+
+---
+
+### 28 January 2026 (Wednesday)
+
+**Topic:** Probability Concepts and Hypothesis Testing
+
+Statistical hypothesis testing and significance levels were introduced.
+
+**Learning Outcome:**
+
+* Learned statistical testing concepts.
+
+---
+
+### 29 January 2026 (Thursday)
+
+**Topic:** Text Vectorization – SVD and LSA
+
+Singular Value Decomposition and Latent Semantic Analysis techniques used in NLP were discussed.
+
+**Learning Outcome:**
+
+* Understood dimensionality reduction in NLP.
+
+---
+
+### 30 January 2026 (Friday)
+
+**Topic:** Hypothesis Testing
+
+Practical examples of hypothesis testing were demonstrated.
+
+**Learning Outcome:**
+
+* Applied statistical reasoning techniques.
+
+---
+
+### Weekly Summary
+
+During January 2026, I learned Python fundamentals, programming concepts, machine learning basics, statistics, probability, and introductory NLP concepts. The sessions helped establish a strong foundation for advanced topics that would be covered in later stages of the training.
