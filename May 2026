@@ -1,0 +1,392 @@
+# MAY 2026
+
+## Week 15 (20 April 2026 – 24 April 2026)
+
+### 20 April 2026 (Monday)
+
+**Topic:** Core RDD Operations – Part 4
+
+Today I learned advanced Resilient Distributed Dataset (RDD) operations in PySpark. The session focused on distributed data processing and optimization techniques.
+
+**Learning Outcome:**
+
+* Improved PySpark skills.
+* Learned distributed computing concepts.
+
+---
+
+### 21 April 2026 (Tuesday)
+
+**Topic:** Publishing Reports and Power BI Services
+
+The mentor demonstrated how Power BI reports can be published and shared through Power BI Service.
+
+**Learning Outcome:**
+
+* Learned report deployment techniques.
+* Understood cloud-based BI services.
+
+---
+
+### 22 April 2026 (Wednesday)
+
+**Topic:** Resume Building Session
+
+A professional session was conducted on creating industry-standard resumes and showcasing technical skills effectively.
+
+**Learning Outcome:**
+
+* Improved resume preparation skills.
+* Learned professional presentation techniques.
+
+---
+
+### 23 April 2026 (Thursday)
+
+**Topic:** Modern LLM Optimization – GPUs, RLHF, LoRA & PEFT
+
+Today I learned advanced Large Language Model optimization techniques. Concepts such as Reinforcement Learning from Human Feedback (RLHF), LoRA, and PEFT were introduced.
+
+**Learning Outcome:**
+
+* Learned modern LLM fine-tuning methods.
+* Understood efficient model adaptation techniques.
+
+---
+
+### 24 April 2026 (Friday)
+
+**Topic:** Interview Preparation Session
+
+The mentor discussed interview strategies, technical preparation methods, and common industry interview questions.
+
+**Learning Outcome:**
+
+* Improved interview readiness.
+* Learned placement preparation strategies.
+
+---
+
+## Week 16 (27 April 2026 – 1 May 2026)
+
+### 27 April 2026 (Monday)
+
+**Topic:** Core RDD Operations – Part 5
+
+Advanced Spark processing operations and real-world data engineering workflows were demonstrated.
+
+**Learning Outcome:**
+
+* Strengthened PySpark fundamentals.
+* Learned scalable data processing techniques.
+
+---
+
+### 28 April 2026 (Tuesday)
+
+**Topic:** Advanced SQL Functions – Part II
+
+The mentor explained analytical functions and advanced query-building techniques.
+
+**Learning Outcome:**
+
+* Improved database querying skills.
+
+---
+
+### 29 April 2026 (Wednesday)
+
+**Topic:** Unsupervised Learning – Part 5
+
+Advanced clustering techniques and practical machine learning applications were discussed.
+
+**Learning Outcome:**
+
+* Improved understanding of unsupervised learning.
+
+---
+
+### 30 April 2026 (Thursday)
+
+**Topic:** Scheduling Data Gateway and Mobile App Integration
+
+Power BI scheduling and mobile reporting features were demonstrated.
+
+**Learning Outcome:**
+
+* Learned enterprise reporting deployment.
+
+---
+
+### 1 May 2026 (Friday)
+
+**Topic:** Advanced SQL Functions – Part III
+
+Complex SQL queries, optimization, and database performance considerations were discussed.
+
+**Learning Outcome:**
+
+* Enhanced SQL proficiency.
+
+---
+
+## Week 17 (4 May 2026 – 8 May 2026)
+
+### 4 May 2026 (Monday)
+
+**Topic:** Introduction to Machine Learning with PySpark (MLlib)
+
+The mentor introduced Spark MLlib and distributed machine learning workflows.
+
+**Learning Outcome:**
+
+* Learned Spark MLlib fundamentals.
+* Understood scalable machine learning.
+
+---
+
+### 5 May 2026 (Tuesday)
+
+**Topic:** Hands-On Modern LLM Optimization and Reasoning Strategies
+
+Practical techniques for improving LLM performance and reasoning capabilities were demonstrated.
+
+**Learning Outcome:**
+
+* Learned prompt engineering concepts.
+* Understood LLM optimization workflows.
+
+---
+
+### 6 May 2026 (Wednesday)
+
+**Topic:** Weekly Admin Catchup Call
+
+Weekly review session focusing on attendance, assignments, and project milestones.
+
+**Learning Outcome:**
+
+* Evaluated learning progress.
+
+---
+
+### 7 May 2026 (Thursday)
+
+**Topic:** M Language Fundamentals
+
+Introduction to Microsoft's M language used for Power Query transformations in Power BI.
+
+**Learning Outcome:**
+
+* Learned Power Query fundamentals.
+
+---
+
+### 8 May 2026 (Friday)
+
+**Topic:** Unsupervised Learning – Part 6
+
+Advanced machine learning techniques involving clustering and segmentation were discussed.
+
+**Learning Outcome:**
+
+* Improved ML algorithm understanding.
+
+---
+
+## Week 18 (11 May 2026 – 15 May 2026)
+
+### 11 May 2026 (Monday)
+
+**Topic:** Advanced DataFrame Transformations in PySpark
+
+The mentor demonstrated advanced transformations, aggregations, and distributed processing operations.
+
+**Learning Outcome:**
+
+* Learned advanced Spark DataFrame operations.
+* Improved data engineering skills.
+
+---
+
+### 12 May 2026 (Tuesday)
+
+**Topic:** Power BI – Python, Machine Learning & SQL Integration
+
+The integration of Power BI with Python, SQL databases, and machine learning workflows was demonstrated.
+
+**Learning Outcome:**
+
+* Learned data integration techniques.
+
+---
+
+### 13 May 2026 (Wednesday)
+
+**Topic:** Unsupervised Learning – Part 6
+
+Practical clustering implementations and model evaluation methods were discussed.
+
+**Learning Outcome:**
+
+* Improved practical machine learning skills.
+
+---
+
+### 14 May 2026 (Thursday)
+
+**Topic:** Weekly Admin Catchup Call
+
+Administrative discussion regarding project progress and upcoming activities.
+
+**Learning Outcome:**
+
+* Reviewed project milestones.
+
+---
+
+### 15 May 2026 (Friday)
+
+**Topic:** Self-Study and Project Research
+
+I spent time reviewing machine learning concepts, PySpark workflows, and preparing ideas for the final project.
+
+**Learning Outcome:**
+
+* Strengthened technical foundations.
+* Began planning project architecture.
+
+---
+
+## Week 19 (18 May 2026 – 22 May 2026)
+
+### 18 May 2026 (Monday)
+
+**Topic:** Semantic Search and Retrieval-Augmented Generation (RAG)
+
+Today I learned how Retrieval-Augmented Generation combines external knowledge retrieval with Large Language Models.
+
+**Learning Outcome:**
+
+* Learned RAG architecture.
+* Understood semantic search concepts.
+
+---
+
+### 19 May 2026 (Tuesday)
+
+**Topic:** SQL Viva Preparation
+
+The session focused on SQL revision and practical database-related viva questions.
+
+**Learning Outcome:**
+
+* Improved SQL confidence.
+* Prepared for technical interviews.
+
+---
+
+### 20 May 2026 (Wednesday)
+
+**Topic:** Understanding Tools and Agents
+
+The mentor introduced AI agents, tool usage, and autonomous workflow concepts.
+
+**Learning Outcome:**
+
+* Learned fundamentals of Agentic AI.
+
+---
+
+### 21 May 2026 (Thursday)
+
+**Topic:** Weekly Admin Catchup Call
+
+Review of attendance, project development progress, and future deliverables.
+
+**Learning Outcome:**
+
+* Monitored project readiness.
+
+---
+
+### 22 May 2026 (Friday)
+
+**Topic:** Study of Agentic Frameworks – LangGraph
+
+The architecture and workflow of LangGraph-based agent systems were explained.
+
+**Learning Outcome:**
+
+* Learned multi-agent orchestration concepts.
+* Understood LangGraph workflows.
+
+---
+
+## Week 20 (25 May 2026 – 29 May 2026)
+
+### 25 May 2026 (Monday)
+
+**Topic:** Claude Code
+
+The mentor introduced Claude Code and AI-assisted software development workflows.
+
+**Learning Outcome:**
+
+* Learned AI-powered coding assistance techniques.
+
+---
+
+### 26 May 2026 (Tuesday)
+
+**Topic:** Monthly Viva – 4
+
+A comprehensive viva was conducted covering Machine Learning, SQL, PySpark, LLMs, and Power BI concepts.
+
+**Learning Outcome:**
+
+* Improved technical presentation skills.
+* Identified strengths and improvement areas.
+
+---
+
+### 27 May 2026 (Wednesday)
+
+**Topic:** Weekly Admin Catchup Call
+
+Project review and final internship preparation discussion.
+
+**Learning Outcome:**
+
+* Reviewed final project progress.
+
+---
+
+### 28 May 2026 (Thursday)
+
+**Topic:** Expert Session by Anudeep Singh
+
+An industry expert session covering career guidance, technology trends, and practical applications of AI and Data Analytics.
+
+**Learning Outcome:**
+
+* Learned industry expectations and best practices.
+
+---
+
+### 29 May 2026 (Friday)
+
+**Topic:** Project Development and Documentation
+
+I worked on the AI-Powered Financial Analysis Platform project, integrating forecasting, classification, chatbot, dashboard, and testing modules.
+
+**Learning Outcome:**
+
+* Improved project integration skills.
+* Completed major development milestones.
+
+---
+
+## Monthly Summary (May 2026)
+
+During May 2026, I gained extensive knowledge of PySpark MLlib, Large Language Models, Retrieval-Augmented Generation (RAG), Agentic AI, LangGraph, Claude Code, Power BI Services, and advanced data engineering concepts. These topics directly contributed to the successful development of my final project titled **"AI-Powered Financial Analysis Platform."** The month also included interview preparation, technical viva sessions, and project implementation activities, helping me strengthen both my technical and professional skills.
