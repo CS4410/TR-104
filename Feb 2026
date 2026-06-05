@@ -1,0 +1,418 @@
+# FEBRUARY 2026
+
+## Week 4 (2 February 2026 – 6 February 2026)
+
+### 2 February 2026 (Monday)
+
+**Topic:** Probabilistic Models of Documents
+
+Today I learned about probabilistic approaches used in Natural Language Processing for representing and analyzing documents. The mentor explained how words and documents can be modeled mathematically to identify hidden topics and patterns.
+
+**Learning Outcome:**
+
+* Understood probabilistic document modeling.
+* Learned the importance of topic modeling in NLP.
+
+---
+
+### 2 February 2026 (Monday)
+
+**Topic:** In-Built Data Structures
+
+The session focused on Python's built-in data structures such as lists, tuples, sets, and dictionaries. Various operations and use cases were demonstrated through examples.
+
+**Learning Outcome:**
+
+* Improved understanding of Python collections.
+* Practiced data storage and manipulation.
+
+---
+
+### 3 February 2026 (Tuesday)
+
+**Topic:** Weekly Admin Catchup Call
+
+A weekly review meeting was conducted to discuss training progress, attendance, assignments, and upcoming sessions.
+
+**Learning Outcome:**
+
+* Reviewed weekly progress.
+* Understood upcoming training roadmap.
+
+---
+
+### 4 February 2026 (Wednesday)
+
+**Topic:** Supervised Learning – Linear Regression
+
+The mentor introduced Linear Regression as one of the most fundamental supervised learning algorithms. The concepts of dependent and independent variables were discussed.
+
+**Learning Outcome:**
+
+* Learned regression fundamentals.
+* Understood predictive modeling basics.
+
+---
+
+### 5 February 2026 (Thursday)
+
+**Topic:** Word Embeddings
+
+I learned how words can be represented as vectors in machine learning. Concepts such as semantic similarity and vector representation were explained.
+
+**Learning Outcome:**
+
+* Understood word embedding concepts.
+* Learned semantic representation of text.
+
+---
+
+### 5 February 2026 (Thursday)
+
+**Topic:** Linear Regression – Continued
+
+The session covered practical implementation and evaluation of regression models.
+
+**Learning Outcome:**
+
+* Learned model fitting and prediction.
+* Understood regression performance evaluation.
+
+---
+
+### 6 February 2026 (Friday)
+
+**Topic:** NumPy Fundamentals
+
+The mentor introduced NumPy and its role in scientific computing. Array operations and mathematical computations were demonstrated.
+
+**Learning Outcome:**
+
+* Learned NumPy arrays.
+* Performed numerical computations efficiently.
+
+---
+
+## Week 5 (9 February 2026 – 13 February 2026)
+
+### 9 February 2026 (Monday)
+
+**Topic:** Probabilistic Models of Documents – Part 2
+
+Advanced concepts related to document probability distributions and topic extraction techniques were discussed.
+
+**Learning Outcome:**
+
+* Improved understanding of NLP modeling.
+
+---
+
+### 10 February 2026 (Tuesday)
+
+**Topic:** Weekly Admin Catchup Call
+
+Weekly discussion regarding training progress and upcoming activities.
+
+**Learning Outcome:**
+
+* Monitored overall progress.
+
+---
+
+### 10 February 2026 (Tuesday)
+
+**Topic:** Pandas – Part 1
+
+The session introduced the Pandas library. DataFrames, Series, data loading, and basic operations were demonstrated.
+
+**Learning Outcome:**
+
+* Learned data handling with Pandas.
+* Understood tabular data manipulation.
+
+---
+
+### 11 February 2026 (Wednesday)
+
+**Topic:** Linear Regression – Part 3
+
+Advanced regression concepts and model interpretation techniques were discussed.
+
+**Learning Outcome:**
+
+* Learned model analysis and prediction techniques.
+
+---
+
+### 12 February 2026 (Thursday)
+
+**Topic:** Word Embeddings – Advanced Concepts
+
+The mentor explained practical applications of embeddings in NLP systems and recommendation engines.
+
+**Learning Outcome:**
+
+* Understood practical NLP applications.
+
+---
+
+### 12 February 2026 (Thursday)
+
+**Topic:** Linear Regression – Part 4
+
+Model evaluation metrics and prediction accuracy assessment were discussed.
+
+**Learning Outcome:**
+
+* Learned regression evaluation methods.
+
+---
+
+### 13 February 2026 (Friday)
+
+**Topic:** Pandas – Part 2
+
+Advanced DataFrame operations, filtering, aggregation, and data cleaning techniques were demonstrated.
+
+**Learning Outcome:**
+
+* Improved data analysis skills using Pandas.
+
+---
+
+## Week 6 (16 February 2026 – 20 February 2026)
+
+### 16 February 2026 (Monday)
+
+**Topic:** Weekly Admin Catchup Call
+
+A review session covering attendance, assignments, and learning progress.
+
+**Learning Outcome:**
+
+* Reviewed weekly goals.
+
+---
+
+### 16 February 2026 (Monday)
+
+**Topic:** Functions, Recursion, Generators, and Decorators – Part 1
+
+Advanced Python programming concepts were introduced with practical examples.
+
+**Learning Outcome:**
+
+* Learned reusable function design.
+* Understood recursion and generators.
+
+---
+
+### 17 February 2026 (Tuesday)
+
+**Topic:** How Computers Got Intelligent – Part 5
+
+The mentor explained advancements in machine learning and artificial intelligence.
+
+**Learning Outcome:**
+
+* Strengthened AI fundamentals.
+
+---
+
+### 17 February 2026 (Tuesday)
+
+**Topic:** Data Visualization – Part 1
+
+Introduction to graphical representation of data using Python visualization libraries.
+
+**Learning Outcome:**
+
+* Learned visualization basics.
+
+---
+
+### 18 February 2026 (Wednesday)
+
+**Topic:** Logistic Regression – Part 1
+
+Classification problems and logistic regression fundamentals were introduced.
+
+**Learning Outcome:**
+
+* Understood binary classification concepts.
+
+---
+
+### 19 February 2026 (Thursday)
+
+**Topic:** Functions, Recursion, Generators, and Decorators – Part 2
+
+Advanced applications of Python functions and decorators were demonstrated.
+
+**Learning Outcome:**
+
+* Improved advanced Python programming skills.
+
+---
+
+### 19 February 2026 (Thursday)
+
+**Topic:** Logistic Regression – Part 2
+
+Practical implementation and evaluation of logistic regression models.
+
+**Learning Outcome:**
+
+* Learned classification model development.
+
+---
+
+### 20 February 2026 (Friday)
+
+**Topic:** Dataiku Core Designer Certification – Introduction
+
+The mentor introduced the Dataiku platform and its applications in data science workflows.
+
+**Learning Outcome:**
+
+* Learned basics of Dataiku.
+
+---
+
+### 20 February 2026 (Friday)
+
+**Topic:** Data Visualization – Part 2
+
+Advanced charting techniques and dashboard concepts were introduced.
+
+**Learning Outcome:**
+
+* Improved data presentation skills.
+
+---
+
+## Week 7 (23 February 2026 – 27 February 2026)
+
+### 23 February 2026 (Monday)
+
+**Topic:** Object-Oriented Programming – Part 1
+
+The mentor introduced classes, objects, attributes, and methods.
+
+**Learning Outcome:**
+
+* Learned OOP fundamentals.
+
+---
+
+### 24 February 2026 (Tuesday)
+
+**Topic:** NLP Doubt Session
+
+A dedicated session for resolving NLP-related queries and clarifying concepts.
+
+**Learning Outcome:**
+
+* Strengthened NLP understanding.
+
+---
+
+### 24 February 2026 (Tuesday)
+
+**Topic:** Scientific Computing for Machine Learning – Part 1
+
+Numerical computing concepts used in machine learning were explained.
+
+**Learning Outcome:**
+
+* Learned scientific computing applications.
+
+---
+
+### 25 February 2026 (Wednesday)
+
+**Topic:** Data Visualization
+
+Hands-on exercises involving charts, graphs, and analytical visualizations.
+
+**Learning Outcome:**
+
+* Improved visualization practice.
+
+---
+
+### 25 February 2026 (Wednesday)
+
+**Topic:** Naïve Bayes Classifier – Part 1
+
+Introduction to probabilistic classification algorithms.
+
+**Learning Outcome:**
+
+* Learned Naïve Bayes fundamentals.
+
+---
+
+### 26 February 2026 (Thursday)
+
+**Topic:** Dataiku Certification Session
+
+Practical use of Dataiku for data analysis and machine learning workflows.
+
+**Learning Outcome:**
+
+* Improved Dataiku proficiency.
+
+---
+
+### 26 February 2026 (Thursday)
+
+**Topic:** Object-Oriented Programming – Part 2
+
+Advanced OOP concepts including inheritance and polymorphism.
+
+**Learning Outcome:**
+
+* Learned code reusability techniques.
+
+---
+
+### 26 February 2026 (Thursday)
+
+**Topic:** Naïve Bayes Classifier – Part 2
+
+Advanced concepts and practical applications of Naïve Bayes.
+
+**Learning Outcome:**
+
+* Understood classification workflows.
+
+---
+
+### 27 February 2026 (Friday)
+
+**Topic:** Scientific Computing for Machine Learning
+
+Mathematical computations and machine learning support libraries were discussed.
+
+**Learning Outcome:**
+
+* Learned computational techniques for ML.
+
+---
+
+### 27 February 2026 (Friday)
+
+**Topic:** Object-Oriented Programming – Part 3
+
+Comprehensive implementation of OOP concepts using Python.
+
+**Learning Outcome:**
+
+* Improved software development practices.
+
+---
+
+### Monthly Summary (February 2026)
+
+During February 2026, I significantly improved my knowledge of Python programming, machine learning algorithms, NLP concepts, Dataiku, data visualization, and object-oriented programming. I learned Linear Regression, Logistic Regression, Naïve Bayes Classification, advanced Python concepts, and practical data analysis techniques that will be beneficial in real-world machine learning and data science projects.
